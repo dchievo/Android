@@ -81,7 +81,8 @@ public class CurrentWeather
     }
 
     public double getTemperature() {
-        return mTemperature;
+
+        return (int) Math.round(mTemperature);
     }
 
     public void setTemperature(double temperature) {
@@ -96,11 +97,14 @@ public class CurrentWeather
         mHumidity = humidity;
     }
 
-    public double getPrecipChance() {
-        return mPrecipChance;
+    public double getPrecipChance()
+    {
+        double precipPercentage = mPrecipChance * 100;
+        return (int) Math.round(mPrecipChance);
     }
 
-    public void setPrecipChance(double precipChance) {
+    public void setPrecipChance(double precipChance)
+    {
         mPrecipChance = precipChance;
     }
 

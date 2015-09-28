@@ -2,46 +2,53 @@
 <items version="2" >
 
     <item
-        jar="C:\Users\David\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp\okhttp\2.5.0\4de2b4ed3445c37ec1720a7d214712e845a24636\okhttp-2.5.0.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="4de2b4ed3445c37ec1720a7d214712e845a24636">
-        <dex dex="C:\Users\David\Documents\GitHub\WorkshopLocationApp\app\build\intermediates\pre-dexed\debug\okhttp-2.5.0-31ced6eaa9c0b02ab1f72657259392b6fefb7a71.jar" />
-    </item>
-    <item
-        jar="C:\Users\David\Documents\GitHub\WorkshopLocationApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\libs\internal_impl-23.0.1.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
-        <dex dex="C:\Users\David\Documents\GitHub\WorkshopLocationApp\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.1-8557d0b355ab082dbbee57f4f7977a7f1b5a77f5.jar" />
-    </item>
-    <item
-        jar="C:\Users\David\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.6.0\98476622f10715998eacf9240d6b479f12c66143\okio-1.6.0.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="98476622f10715998eacf9240d6b479f12c66143">
-        <dex dex="C:\Users\David\Documents\GitHub\WorkshopLocationApp\app\build\intermediates\pre-dexed\debug\okio-1.6.0-bc9a618bbd9963e97b53d8f8fbd69ff19551baa9.jar" />
-    </item>
-    <item
-        jar="C:\Users\David\Documents\GitHub\WorkshopLocationApp\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.1\jars\classes.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
-        <dex dex="C:\Users\David\Documents\GitHub\WorkshopLocationApp\app\build\intermediates\pre-dexed\debug\classes-231f9d732bdbc0905f0d99807c5f2e93839b0177.jar" />
-    </item>
-    <item
-        jar="C:\Users\David\Documents\GitHub\WorkshopLocationApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\classes.jar"
+        jar="C:\Users\dchi\Documents\GitHub\WorkshopLocationApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\classes.jar"
         jumboMode="false"
         revision="23.0.1"
         sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
-        <dex dex="C:\Users\David\Documents\GitHub\WorkshopLocationApp\app\build\intermediates\pre-dexed\debug\classes-bf2a37cf2714f8511ee366168c7d12fcc6f53e65.jar" />
+        <dex dex="C:\Users\dchi\Documents\GitHub\WorkshopLocationApp\app\build\intermediates\pre-dexed\debug\classes-d1699880890d20b1366ed7572313291309da9a4f.jar" />
     </item>
     <item
-        jar="C:\Users\David\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.1\support-annotations-23.0.1.jar"
+        jar="C:\Users\dchi\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.6.0\98476622f10715998eacf9240d6b479f12c66143\okio-1.6.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="C:\Users\dchi\Documents\GitHub\WorkshopLocationApp\app\build\intermediates\pre-dexed\debug\okio-1.6.0-d177d9983c4bd97b140ba2283fed534fe95ca5bb.jar" />
+    </item>
+    <item
+        jar="C:\Users\dchi\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.1\support-annotations-23.0.1.jar"
         jumboMode="false"
         revision="23.0.1"
         sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
-        <dex dex="C:\Users\David\Documents\GitHub\WorkshopLocationApp\app\build\intermediates\pre-dexed\debug\support-annotations-23.0.1-803852450f9577f7904bae4816614ce235eb333b.jar" />
+        <dex dex="C:\Users\dchi\Documents\GitHub\WorkshopLocationApp\app\build\intermediates\pre-dexed\debug\support-annotations-23.0.1-f0b5e2a1cf75aeb1eadde11a3c6b15815399208b.jar" />
+    </item>
+    <item
+        jar="C:\Users\dchi\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp\okhttp\2.5.0\4de2b4ed3445c37ec1720a7d214712e845a24636\okhttp-2.5.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4de2b4ed3445c37ec1720a7d214712e845a24636">
+        <dex dex="C:\Users\dchi\Documents\GitHub\WorkshopLocationApp\app\build\intermediates\pre-dexed\debug\okhttp-2.5.0-ad42b6e619e6cb323ccb428b0cac63bade4c8a15.jar" />
+    </item>
+    <item
+        jar="C:\Users\dchi\Documents\GitHub\WorkshopLocationApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\libs\internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="C:\Users\dchi\Documents\GitHub\WorkshopLocationApp\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.1-f1735a15e475780d7c5901bf44a5ef7189d400f2.jar" />
+    </item>
+    <item
+        jar="C:\Users\dchi\Documents\GitHub\WorkshopLocationApp\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="C:\Users\dchi\Documents\GitHub\WorkshopLocationApp\app\build\intermediates\pre-dexed\debug\classes-8f999ff9577f4fae55da9c8bd111c81754a01bf1.jar" />
+    </item>
+    <item
+        jar="C:\Users\dchi\.gradle\caches\modules-2\files-2.1\com.jakewharton\butterknife\6.0.0\3a10b25b6820e19102e118711afe6a66c0bae123\butterknife-6.0.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3a10b25b6820e19102e118711afe6a66c0bae123">
+        <dex dex="C:\Users\dchi\Documents\GitHub\WorkshopLocationApp\app\build\intermediates\pre-dexed\debug\butterknife-6.0.0-077ec7e48cb8d3b449e220cd273b4b3e59adf78b.jar" />
     </item>
 
 </items>
